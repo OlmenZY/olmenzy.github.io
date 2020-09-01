@@ -1,13 +1,13 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: Personal Site of OlmenZY
+SEOTitle: OlmenZY - Personal Website
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+email: olmenzy@163.com
+description: "Testing the Site."
+keyword: "A B C"
+url: "https://olmenzy.github.io"          # your host, for absolute URL
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/olmenzy/olmenzy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  olmenzy.github.io    #仓库名称
+  owner: olmenzy    #github用户名
+  admin: olmenzy
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Globien Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
+        title: "OlmenZY Wiki Dictionary",
+        href: "https://github.com/olmenzy/olmenzy.github.io/wiki"
     },{
-        title: "Globien Community",
-        href: "https://globien.fandom.com/wiki/Globien_Wiki"
+        title: "OlmenZY Community",
+        href: "https://olmenzy.fandom.com/wiki/Globien_Wiki"
     },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
